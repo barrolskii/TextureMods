@@ -18,4 +18,4 @@ Hyperion Obsidian 1340 Shotgun:
 
 Notes
 =====
-The Hyperion Obsidian skin was made by using Aaron0000's 1340 community patch skin as a reference. I used his file as a reference to learn how to create custom skins in Borderlands 2 and this skin is still subject to change.
+The Hyperion Obsidian skin was made by using [Aaron0000's](https://github.com/Aaron00000) 1340 community patch skin as a reference. I used his file as a reference to learn how to create custom skins in Borderlands 2 and this skin is still subject to change.
