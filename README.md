@@ -9,13 +9,16 @@ Current Weapon Skins
 ==================
 
 ## Hyperion Obsidian
-The obsidian weapon skin is currently available on the Hyperion 1340 unique shotgun but will be available
-on the other unique Hyperion weapons soon.
+The obsidian weapon skin changes all of the Hyperion unique weapon skins in Borderlands 2. This pack contains two versions of the skin for
+each gun. The full color skin is named "Factory default" and the mixed color/damaged looking skin is called "Battle worn".
+Each of these skins can be changed in the BLCMM so you can pick and choose which skins you would like to have applied.
 
-Hyperion Obsidian 1340 Shotgun:
-![Obsidian Skin](https://github.com/barrolskii/TextureMods/blob/master/HyperionObsidian/1340Obsidian_v2BW.jpg)
+Hyperion Obsidian 1340 Shotgun factory default:
+![Obsidian Skin](https://github.com/barrolskii/TextureMods/blob/master/HyperionObsidian/20180829144557_1.jpg)
 
 
 Notes
 =====
-The Hyperion Obsidian skin was made by using [Aaron0000's](https://github.com/Aaron00000) 1340 community patch skin as a reference. I used his file as a reference to learn how to create custom skins in Borderlands 2 and this skin is still subject to change.
+The Hyperion Obsidian skin was made by using [Aaron0000's](https://github.com/Aaron00000) 1340 community patch skin as a reference. 
+I used his file to learn how to make skins for Borderlands weapons.
+These skins are available for use but there are still some minor details that need to be done which I have left in the Todo.txt file.
