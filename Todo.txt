@@ -1,2 +1,2 @@
-# Add reflection detail to the weapons
-# Attempt to fix some of the decal problems with the fremingtons edge and the fibber
+# Asiimove replica skin
+# Get black, white and orange color ranges and values
