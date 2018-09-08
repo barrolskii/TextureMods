@@ -17,6 +17,8 @@ Hyperion Obsidian 1340 Shotgun factory default:
 ![Obsidian Skin](https://github.com/barrolskii/TextureMods/blob/master/HyperionObsidian/20180829144557_1.jpg)
 
 
+[Click here to see the entire skin pack](https://imgur.com/a/dDbNjrB)
+
 Notes
 =====
 The Hyperion Obsidian skin was made by using [Aaron0000's](https://github.com/Aaron00000) 1340 community patch skin as a reference. 
