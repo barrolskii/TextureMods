@@ -14,7 +14,7 @@ each gun. The full color skin is named "Factory default" and the mixed color/dam
 Each of these skins can be changed in the BLCMM so you can pick and choose which skins you would like to have applied.
 
 Hyperion Obsidian 1340 Shotgun factory default:
-![Obsidian Skin](https://github.com/barrolskii/TextureMods/blob/master/HyperionObsidian/20180829144557_1.jpg)
+![Obsidian Skin](https://github.com/barrolskii/TextureMods/blob/master/HyperionObsidian/20180905184757_1.jpg)
 
 
 [Click here to see the entire skin pack](https://imgur.com/a/dDbNjrB)
