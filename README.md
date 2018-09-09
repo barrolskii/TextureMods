@@ -19,8 +19,17 @@ Hyperion Obsidian 1340 Shotgun factory default:
 
 [Click here to see the entire skin pack](https://imgur.com/a/dDbNjrB)
 
+
+## Hyperion Asiimov
+This is a recreation of the Asiimov weapon skin in CS:GO. This skin pack currently changes all of the Hyperion legendary weapons.
+__NOTE:__ This modpack is currently a work in progress and is not finished right now.
+
+Longbow sniper rifle with the Asiimov skin:
+![Longbow Asiimov skin](https://github.com/barrolskii/TextureMods/blob/master/HyperionAsiimov/20180909164933_1.jpg)
+
 Notes
 =====
 The Hyperion Obsidian skin was made by using [Aaron0000's](https://github.com/Aaron00000) 1340 community patch skin as a reference. 
 I used his file to learn how to make skins for Borderlands weapons.
-These skins are available for use but there are still some minor details that need to be done which I have left in the Todo.txt file.
+These skins are available for anyone to use in there game. I would recommend checking the Todo.txt file if the pack you want to use
+has a disclaimer that it is not finished yet to see if the changes that need to be done will change the pack drastically or not.
