@@ -1,2 +1,3 @@
 # Asiimove replica skin
-# Get black, white and orange color ranges and values
+# Tweak longbow and logans gun decal and patterns
+# Tweak bitch smg A color channel
