@@ -1,3 +1,6 @@
-# Asiimove replica skin
-# Tweak longbow and logans gun decal and patterns
-# Tweak bitch smg A color channel
+# Asiimov replica skin
+# Look into possibly having multiple decals on one gun
+
+
+# Note: Logan's gun pattern uses multicolor - this might be useful for another skin pack
+# Note: Longbow pattern has a nice wooden texture to it - this might also be useful for another pack
