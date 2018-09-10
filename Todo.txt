@@ -1,6 +1,10 @@
-# Asiimov replica skin
-# Look into possibly having multiple decals on one gun
+# Make a Jacobs weapon pack
+# Make a Torgue weapon pack
+# Make a Tediore weapon pack
+# Make a Maliwan weapon pack
+# Make a Bandit weapon pack
 
 
 # Note: Logan's gun pattern uses multicolor - this might be useful for another skin pack
 # Note: Longbow pattern has a nice wooden texture to it - this might also be useful for another pack
+# Note: There is a red and blue spectrum texture which might be interesting to play about with
