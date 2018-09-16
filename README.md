@@ -27,6 +27,9 @@ __NOTE:__ This modpack is currently a work in progress and is not finished right
 Longbow sniper rifle with the Asiimov skin:
 ![Longbow Asiimov skin](https://github.com/barrolskii/TextureMods/blob/master/HyperionAsiimov/20180909164933_1.jpg)
 
+
+[Click here to see the entire skin pack](https://imgur.com/a/f3sTfhK)
+
 Notes
 =====
 The Hyperion Obsidian skin was made by using [Aaron0000's](https://github.com/Aaron00000) 1340 community patch skin as a reference. 
