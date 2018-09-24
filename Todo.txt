@@ -1,3 +1,5 @@
+# Launcher skin swap the c channel and the b channel around
+
 # Make a Jacobs weapon pack
 	# Finish colors for the rifles
 	# Add pistols, snipers, and shotguns to the pack
