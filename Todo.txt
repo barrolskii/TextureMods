@@ -1,4 +1,5 @@
 # Launcher skin swap the c channel and the b channel around
+# Finish the first Gjallarhorn skin then move onto the second one
 
 # Make a Jacobs weapon pack
 	# Finish colors for the rifles
