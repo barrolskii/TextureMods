@@ -1,6 +1,8 @@
 # Look into D color higlight intensity
 # Finalise Iron gjallarhorn design
 
+# Make an e-tech sniper pack
+
 # Make a Jacobs weapon pack
 	# Finish colors for the rifles
 	# Add pistols, snipers, and shotguns to the pack
@@ -9,7 +11,6 @@
 # Make a Tediore weapon pack
 # Make a Maliwan weapon pack
 # Make a Bandit weapon pack
-
 
 # Note: Logan's gun pattern uses multicolor - this might be useful for another skin pack
 # Note: Longbow pattern has a nice wooden texture to it - this might also be useful for another pack
