@@ -2,6 +2,11 @@
 # Finalise Iron gjallarhorn design
 
 # Make an e-tech sniper pack
+# NOTE: This could include the graviton lance from D2
+
+# Idea: Maliwan neon pack - could make use of the tessalating hexagon pattern
+# Note: Have a look into other weapon patterns that might look good with the color scheme
+# Tediore patterns may not be a bad idea
 
 # Make a Jacobs weapon pack
 	# Finish colors for the rifles
