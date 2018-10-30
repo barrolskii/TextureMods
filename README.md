@@ -21,7 +21,7 @@ Hyperion Obsidian 1340 Shotgun factory default:
 
 
 ## Hyperion Asiimov
-This is a recreation of the Asiimov weapon skin in CS:GO. This skin pack currently changes all of the Hyperion legendary weapons. At the moment this does not include the legendary grenades at this moment but this is subject to change in the future.
+This is a recreation of the Asiimov weapon skin in CS:GO. This skin pack currently changes all of the Hyperion legendary weapons. At the moment this does not include the legendary grenades but this is subject to change in the future.
 
 Longbow sniper rifle with the Asiimov skin:
 ![Longbow Asiimov skin](https://github.com/barrolskii/TextureMods/blob/master/HyperionAsiimov/20180909164933_1.jpg)
